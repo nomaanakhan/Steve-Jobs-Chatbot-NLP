@@ -24,10 +24,15 @@ It also stores the user's name and any new information that the user provides.
 
 1. Download required packages and libraries
 	Enter the following commands in cmd to download the following libraries:
+	
 	pip install spacy
+	
 	pip install nltk
+	
 	pip install stanfordcorenlp
+	
 	python -m spacy download en
+	
 	pip install en_core_web_sm
 
 2. Download Stanford CoreNlP(not the same as running the pip command) from: https://stanfordnlp.github.io/CoreNLP/download.html
