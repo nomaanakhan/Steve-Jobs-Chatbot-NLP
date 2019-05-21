@@ -1,0 +1,31 @@
+Hi there What is your name?
+My name is Nomaan.
+hi there Nomaan.
+Go ahead, ask me a question about Steve Jobs.
+Or Enter -1 to exit.
+ >
+
+>When was Steve Jobs born?
+Steven Paul Jobs was born on February 24 in San Francisco California
+
+>What did the New York Times publish about Steve Jobs' health?
+The New York Times published an article based on an off the record phone conversation with Jobs noting that While his health problems amounted to a good deal more than a common bug  they weren t life threatening and he doesn t have a recurrence of cancer
+
+>When was Steve Jobs awarded the National Medal of Technology?
+Jobs was awarded the National Medal of Technology by President Ronald Reagan in 1985 with Steve Wozniak among the first people to ever receive the honor  and a Jefferson Award for Public Service in the category Greatest Public Service by an Individual Years or Under also known as the Samuel S Beard Award in 1987
+
+>What did Steve Jobs move Pixar to do
+Pixar moved on to do what it now does best which is make animated films
+
+>Pineapple on Pizza?
+Hmm, I don't Know.
+What do you think is the right answer?
+Sure, if you like it!
+Duly noted.
+Thank you!
+
+>Pineapple on Pizza?
+Sure, if you like it!
+
+>-1
+Bye Nomaan.
